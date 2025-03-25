@@ -1,0 +1,6 @@
+[submodule "yapa-backend"]
+	path = yapa-backend
+	url = https://github.com/MogboPython/yapa-backend.git
+[submodule "yapa-frontend"]
+	path = yapa-frontend
+	url = https://github.com/MogboPython/yapa-frontend.git
